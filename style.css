@@ -1,0 +1,58 @@
+body {
+  height: 100vh;
+  background-image: url("https://images5.alphacoders.com/598/thumb-1920-598176.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .c1 {
+  background-color: transparent;
+  width: 50vh;
+}
+
+body .c1 form {
+  height: 85vh;
+  width: 50vh;
+  background-color: white;
+  border: none;
+  border-radius: 3px;
+}
+
+body .c1 form .c5 {
+  border: 1px solid grey;
+  height: 35px;
+  margin-bottom: 15px;
+  padding-left: 0px;
+  margin-right: 63px !important;
+  width: 70%;
+}
+
+body .c1 form .c5 input {
+  width: 100%;
+  margin-bottom: 15px;
+  border: none;
+  height: 30px;
+  padding-top: 0px;
+  outline: none;
+}
+
+body .c1 form .c5 ion-icon {
+  margin-top: 0px;
+  background-color: #e4e9ed;
+  width: 30px;
+  height: 40px;
+}
+
+body .c1 form a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
